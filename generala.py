@@ -13,3 +13,5 @@ for i in range (1,cantidad_jugadores):
     tirada=dame_tirada()
     print("Los dados que salieron son: ",tirada)
     print("hola")
+    #Esto es una prueba
+    
