@@ -12,4 +12,4 @@ for i in range (1,cantidad_jugadores):
     tiros = tiros+1
     tirada=dame_tirada()
     print("Los dados que salieron son: ",tirada)
-    print(hola)
+    print("hola")
